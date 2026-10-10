@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siwen.ink/sitemap.xml
